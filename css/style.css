@@ -18,7 +18,7 @@ header .logo__tamaño {
   height: 150px;
 }
 header .nav-item {
-  list-style: none;
+  list-style: circle;
   color: rgb(201, 145, 155);
   font-size: 20px;
 }
